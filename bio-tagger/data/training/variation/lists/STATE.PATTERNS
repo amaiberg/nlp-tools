@@ -1,7 +1,0 @@
-chr|chromosome [1-9]|1[0-9]|2[0-2]|X|Y p|q
-chr|chromosome [1-9]|1[0-9]|2[0-2]|X|Y
-[1-9]|1[0-9]|2[0-2]|X|Y p|q
-[1-9]|1[0-9]|2[0-2]|X|Y
-ala|arg|asn|asp|cys|gln|glu|his|ile|leu|lys|met|phe|pro|ser|thr|trp|tyr|val
-A|T|C|G
-A|R|N|D|C|Q|E|G|H|I|L|K|M|F|P|S|T|W|Y|V
