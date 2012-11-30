@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/opennlp-tools-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/maxent.jar"/>
+	<classpathentry kind="lib" path="lib/mallet-deps.jar"/>
+	<classpathentry kind="lib" path="lib/wordfreak-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/mallet-no_gnu.jar"/>
+	<classpathentry kind="lib" path="lib/trove.jar"/>
+	<classpathentry kind="lib" path="lib/ant-nodeps.jar"/>
+	<classpathentry kind="lib" path="lib/ant.jar"/>
+	<classpathentry kind="lib" path="lib/crabapple-1.0.jar"/>
+	<classpathentry kind="output" path="output/classes"/>
+</classpath>
